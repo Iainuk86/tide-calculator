@@ -1,4 +1,4 @@
-package org.iainuk.tidecalculator;
+package dev.iainmcintosh.tidecalculator;
 
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,6 @@
-package org.iainuk.tidecalculator.controller;
+package dev.iainmcintosh.tidecalculator.controller;
 
-import org.iainuk.tidecalculator.service.TideServiceImpl;
+import dev.iainmcintosh.tidecalculator.service.TideServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

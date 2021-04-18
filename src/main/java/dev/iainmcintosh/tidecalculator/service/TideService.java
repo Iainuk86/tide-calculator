@@ -1,4 +1,4 @@
-package org.iainuk.tidecalculator.service;
+package dev.iainmcintosh.tidecalculator.service;
 
 import java.io.IOException;
 

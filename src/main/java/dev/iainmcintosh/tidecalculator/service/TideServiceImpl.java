@@ -1,9 +1,9 @@
-package org.iainuk.tidecalculator.service;
+package dev.iainmcintosh.tidecalculator.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.iainuk.tidecalculator.Geocoder;
-import org.iainuk.tidecalculator.TideCoder;
+import dev.iainmcintosh.tidecalculator.Geocoder;
+import dev.iainmcintosh.tidecalculator.TideCoder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

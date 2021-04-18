@@ -1,4 +1,4 @@
-package org.iainuk.tidecalculator;
+package dev.iainmcintosh.tidecalculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
